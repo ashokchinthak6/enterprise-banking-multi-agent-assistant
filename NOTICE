@@ -1,0 +1,15 @@
+Enterprise Banking Multi-Agent Assistant
+Copyright 2026 Ashok Chinthakindi
+
+This project is inspired by and adapts architectural patterns from the
+Microsoft/Azure Samples Multi-Agent Banking Assistant:
+https://github.com/Azure-Samples/agent-openai-python-banking-assistant
+
+The upstream project is Copyright (c) 2024 Azure Samples and licensed under
+the MIT License. This repository retains the upstream license notice and
+clearly identifies its independent portfolio-focused modifications.
+
+Modifications include a compact FastAPI service, deterministic offline agents,
+optional Microsoft Agent Framework integration, FastMCP tools, human approval
+controls, audit events, risk policy checks, tests, CI, and a React interface.
+
